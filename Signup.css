@@ -1,0 +1,47 @@
+body{
+    background: #ED4264;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFEDBC, #ED4264);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFEDBC, #ED4264); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#sp{
+    border: 1px solid black;
+    height: 500px;
+    width: 600px;
+    margin: auto;
+    margin-top: 200px;
+    box-shadow: 10px 10px 10px 10px black;
+    border-radius: 20px;
+}
+#spg{
+    margin-left: 15%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 5px;
+}
+#flds{
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    margin-left: 18%;
+    margin-top: 2%;
+    border: none;
+    font-size: 20px;
+    border-radius: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#btn{
+    height: 50px;
+    border: none;
+    border-radius: 50px;
+    width: 150px;
+    margin-left: 39%;
+    margin-top: 30px;
+    background: #FFAFBD;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffc3a0, #FFAFBD);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffc3a0, #FFAFBD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
+}
+#btn a{
+    text-decoration: none;
+    color: black;
+}
